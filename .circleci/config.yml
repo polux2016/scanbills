@@ -2,10 +2,13 @@ version: 2
 jobs:
   build:
     docker:
-      - image: debian:stretch
+      - image: poluhovichandrey/dotnet_core_centos
 
     steps:
       - checkout
+
+      - run:
+          name: rebuild
 
       - run:
           name: Build 
