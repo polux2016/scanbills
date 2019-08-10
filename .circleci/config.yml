@@ -8,5 +8,9 @@ jobs:
       - checkout
 
       - run:
-          name: Build 
+          name: Restore BillScanController
+          command: dotnet "restore" "./BillScanController/BillScanController.csproj"
+
+      - run:
+          name: Build BillScanController
           command: dotnet "build" "./BillScanController/BillScanController.csproj"
