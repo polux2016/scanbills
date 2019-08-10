@@ -8,8 +8,5 @@ jobs:
       - checkout
 
       - run:
-          name: rebuild
-
-      - run:
           name: Build 
           command: dotnet build
