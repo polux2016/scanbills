@@ -1,0 +1,14 @@
+/Users/andrejpoluhovic/Documents/Documents/Projects/billscan/BillScanController/bin/Debug/netcoreapp2.1/BillScanController.deps.json
+/Users/andrejpoluhovic/Documents/Documents/Projects/billscan/BillScanController/bin/Debug/netcoreapp2.1/BillScanController.runtimeconfig.json
+/Users/andrejpoluhovic/Documents/Documents/Projects/billscan/BillScanController/bin/Debug/netcoreapp2.1/BillScanController.runtimeconfig.dev.json
+/Users/andrejpoluhovic/Documents/Documents/Projects/billscan/BillScanController/bin/Debug/netcoreapp2.1/BillScanController.dll
+/Users/andrejpoluhovic/Documents/Documents/Projects/billscan/BillScanController/bin/Debug/netcoreapp2.1/BillScanController.pdb
+/Users/andrejpoluhovic/Documents/Documents/Projects/billscan/BillScanController/obj/Debug/netcoreapp2.1/BillScanController.csprojAssemblyReference.cache
+/Users/andrejpoluhovic/Documents/Documents/Projects/billscan/BillScanController/obj/Debug/netcoreapp2.1/BillScanController.csproj.CoreCompileInputs.cache
+/Users/andrejpoluhovic/Documents/Documents/Projects/billscan/BillScanController/obj/Debug/netcoreapp2.1/BillScanController.RazorAssemblyInfo.cache
+/Users/andrejpoluhovic/Documents/Documents/Projects/billscan/BillScanController/obj/Debug/netcoreapp2.1/BillScanController.RazorAssemblyInfo.cs
+/Users/andrejpoluhovic/Documents/Documents/Projects/billscan/BillScanController/obj/Debug/netcoreapp2.1/BillScanController.AssemblyInfoInputs.cache
+/Users/andrejpoluhovic/Documents/Documents/Projects/billscan/BillScanController/obj/Debug/netcoreapp2.1/BillScanController.AssemblyInfo.cs
+/Users/andrejpoluhovic/Documents/Documents/Projects/billscan/BillScanController/obj/Debug/netcoreapp2.1/BillScanController.RazorTargetAssemblyInfo.cache
+/Users/andrejpoluhovic/Documents/Documents/Projects/billscan/BillScanController/obj/Debug/netcoreapp2.1/BillScanController.dll
+/Users/andrejpoluhovic/Documents/Documents/Projects/billscan/BillScanController/obj/Debug/netcoreapp2.1/BillScanController.pdb
